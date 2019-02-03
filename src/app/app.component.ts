@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mm-mk';
+  total = 150;
+  args = {
+    speed: 'fast',
+    size: 1.2
+  }
+ 
 }

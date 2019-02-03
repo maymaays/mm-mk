@@ -1,0 +1,12 @@
+.uppercase {
+    text-transform: uppercase;
+    color: #7F7FD5;
+    margin: 10px 75px 15px 75px;
+    font-family: Nunito;
+    font-weight: 800;
+  }
+
+  .margin {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
